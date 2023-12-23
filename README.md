@@ -4,8 +4,6 @@ FECHA: 19/12/23
 
 # CONTENIDO
 
--[NETP1](Saludar.src)
-:Saludar
+-[NETP1](Saludar.java)
 
 -[NETP2](Registar.java)
-:Registrar
