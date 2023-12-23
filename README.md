@@ -1,0 +1,8 @@
+# *PRACTICA JAVA CON NETBEANS CLASE 07/ SEMANA 3*
+
+FECHA: 19/12/23
+
+# CONTENIDO
+
+-[NETP.1](Saludar.java)
+-[NETP.1](Registar.java)
